@@ -27,4 +27,4 @@
 </div><br/>
 
 ##
-![crack!](https://user-images.githubusercontent.com/100967260/211827387-9762385c-3bf7-42cc-a42d-c903b8ff985d.gif)
+![crack!]()
