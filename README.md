@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I’m currently studying computer engineering at University of Brasília.
-- 🌱 I’m currently learning python and web development.
+- 🌱 I’m currently learning python and backend development.
 - 📫 You can contact me at israel.telesbandeira@gmail.com.
 - 😄 Pronouns: he/him.
 
