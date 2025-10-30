@@ -1,4 +1,4 @@
-Hi, I'm Israel! 👋
+#Hi, I'm Israel! 👋
 I'm a Computer Engineering student at the University of Brasília (UnB) passionate about Software Engineering, Backend Development, and Data Solutions. My main interests lie in requirements analysis, process modeling, and building scalable systems.
 
 **💻 Languages & Tech:** Python, Typescript, AWS, Docker, Kubernetes, SQL (SQLite), and NoSQL (MongoDB).
