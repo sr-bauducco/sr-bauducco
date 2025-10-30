@@ -1,11 +1,13 @@
-### Hi! 🙂
-##
+Hi, I'm Israel! 👋
+I'm a Computer Engineering student at the University of Brasília (UnB) passionate about Software Engineering, Backend Development, and Data Solutions. My main interests lie in requirements analysis, process modeling, and building scalable systems.
 
-- 🔭 I’m currently studying computer engineering at University of Brasília.
-- 🌱 I’m currently learning python and backend development.
-- 📫 You can contact me at israel.telesbandeira@gmail.com.
+**💻 Languages & Tech:** Python, Typescript, AWS, Docker, Kubernetes, SQL (SQLite), and NoSQL (MongoDB).
 
-##
+**🚀 Currently:** Developing self-adaptive systems using a goal-oriented approach for autonomous microservices as a Scientific Researcher (PIBIC).
+
+**🌱 Seeking:** Opportunities to apply and grow my skills in software engineering and cloud infrastructure.
+
+Feel free to check out my repositories!
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sr-bauducco&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
