@@ -28,14 +28,14 @@ I am a Computer Engineering student driven by solving complex architectural chal
 ### 📊 GitHub Analytics (Real-time)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sr-bauducco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-bauducco&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sr-bauducco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-bauducco&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-bauducco&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-bauducco&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Connect with me
